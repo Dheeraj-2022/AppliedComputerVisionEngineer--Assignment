@@ -1,0 +1,5 @@
+person
+hard-hat
+no-hard-hat
+safety-vest
+no-safety-vest
